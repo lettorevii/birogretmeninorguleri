@@ -6,14 +6,14 @@ import './Gallery.css';
 gsap.registerPlugin(ScrollTrigger);
 
 const galleryImages = [
-  { id: 1, size: 'large', src: '/images/WhatsApp Image 2026-05-21 at 16.35.19.jpeg' },
-  { id: 2, size: 'medium', src: '/images/WhatsApp Image 2026-05-21 at 16.36.20.jpeg' },
-  { id: 3, size: 'small', src: '/images/WhatsApp Image 2026-05-21 at 16.36.24.jpeg' },
-  { id: 4, size: 'small', src: '/images/WhatsApp Image 2026-05-21 at 16.36.29.jpeg' },
-  { id: 5, size: 'large', src: '/images/WhatsApp Image 2026-05-21 at 16.36.35.jpeg' },
-  { id: 6, size: 'medium', src: '/images/WhatsApp Image 2026-05-21 at 16.36.55.jpeg' },
-  { id: 7, size: 'medium', src: '/images/WhatsApp Image 2026-05-21 at 16.37.12.jpeg' },
-  { id: 8, size: 'small', src: '/images/WhatsApp Image 2026-05-21 at 16.44.46.jpeg' }
+  { id: 1, size: 'large', src: '/images/WhatsApp-Image-2026-05-21-at-16.35.19.jpeg' },
+  { id: 2, size: 'medium', src: '/images/WhatsApp-Image-2026-05-21-at-16.36.20.jpeg' },
+  { id: 3, size: 'small', src: '/images/WhatsApp-Image-2026-05-21-at-16.36.24.jpeg' },
+  { id: 4, size: 'small', src: '/images/WhatsApp-Image-2026-05-21-at-16.36.29.jpeg' },
+  { id: 5, size: 'large', src: '/images/WhatsApp-Image-2026-05-21-at-16.36.35.jpeg' },
+  { id: 6, size: 'medium', src: '/images/WhatsApp-Image-2026-05-21-at-16.36.55.jpeg' },
+  { id: 7, size: 'medium', src: '/images/WhatsApp-Image-2026-05-21-at-16.37.12.jpeg' },
+  { id: 8, size: 'small', src: '/images/WhatsApp-Image-2026-05-21-at-16.44.46.jpeg' }
 ];
 
 const Gallery = () => {

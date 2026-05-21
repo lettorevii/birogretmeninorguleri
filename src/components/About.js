@@ -71,7 +71,7 @@ const About = () => {
 
         <div className="about-image" ref={imageRef}>
           <img
-            src="/images/WhatsApp Image 2026-05-21 at 16.25.41.jpeg"
+            src="/images/WhatsApp-Image-2026-05-21-at-16.25.41.jpeg"
             alt="El İşçiliği"
           />
           <div className="image-overlay"></div>

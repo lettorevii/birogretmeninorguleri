@@ -11,42 +11,42 @@ const products = [
     name: 'Bere',
     description: 'Yumuşak yün karışımı, sıcak tutan',
     colors: 'Terracotta, Sage, Krem',
-    image: '/images/WhatsApp Image 2026-05-21 at 16.27.59.jpeg'
+    image: '/images/WhatsApp-Image-2026-05-21-at-16.27.59.jpeg'
   },
   {
     id: 2,
     name: 'Atkı',
     description: 'El dokuması, uzun ve şık',
     colors: 'Tüm renkler mevcut',
-    image: '/images/WhatsApp Image 2026-05-21 at 16.34.37.jpeg'
+    image: '/images/WhatsApp-Image-2026-05-21-at-16.34.37.jpeg'
   },
   {
     id: 3,
     name: 'Hırka',
     description: 'Oversize kesim, rahat',
     colors: 'Özel renk seçimi',
-    image: '/images/WhatsApp Image 2026-05-21 at 16.34.40.jpeg'
+    image: '/images/WhatsApp-Image-2026-05-21-at-16.34.40.jpeg'
   },
   {
     id: 4,
     name: 'Kazak',
     description: 'Klasik kesim, günlük kullanım',
     colors: 'Doğal tonlar',
-    image: '/images/WhatsApp Image 2026-05-21 at 16.34.49.jpeg'
+    image: '/images/WhatsApp-Image-2026-05-21-at-16.34.49.jpeg'
   },
   {
     id: 5,
     name: 'Eldiven',
     description: 'Parmaksız veya tam',
     colors: 'İstediğin renk',
-    image: '/images/WhatsApp Image 2026-05-21 at 16.35.02.jpeg'
+    image: '/images/WhatsApp-Image-2026-05-21-at-16.35.02.jpeg'
   },
   {
     id: 6,
     name: 'Çanta',
     description: 'El yapımı, dayanıklı',
     colors: 'Desenli veya düz',
-    image: '/images/WhatsApp Image 2026-05-21 at 16.35.11.jpeg'
+    image: '/images/WhatsApp-Image-2026-05-21-at-16.35.11.jpeg'
   }
 ];
 
